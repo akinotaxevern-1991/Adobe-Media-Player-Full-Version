@@ -239,4 +239,4 @@ This repository serves as the official landing page for Adobe Media Player. The 
 **Get the most recent version of Adobe Media Player today!**
 
 ---
-**Last updated:** 2026-09-20 13:54:50 UTC
+**Last updated:** 2026-09-20 17:15:59 UTC
